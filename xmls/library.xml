@@ -1,0 +1,18 @@
+<library>
+	<name>The smallest library in the world.</name>
+	<book>
+		<title>The Lord of The Rings</title>
+		<author>J.R.R. Tolkien</author>
+		<pages-count>1024</pages-count>
+	</book>
+	<book>
+		<title>Dune</title>
+		<author>Frank Herbert</author>
+		<pages-count>512</pages-count>
+	</book>
+	<book>
+		<title>Quo Vadis</title>
+		<author>Henryk Sienkiewicz</author>
+		<pages-count>777</pages-count>
+	</book>
+</library>
